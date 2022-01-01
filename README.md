@@ -40,7 +40,7 @@ This repo contains the supported code and configuration files to reproduce seman
 
 ### Installation
 
-Please refer to [get_started.md](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/get_started.md#installation) for installation and dataset preparation.
+Please refer to [get_started.md](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/get_started.md#installation) for installation and dataset preparation.
 
 ### Inference
 ```
