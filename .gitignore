@@ -20,6 +20,7 @@ parts/
 sdist/
 var/
 wheels/
+ADEChallengeData2016/
 *.egg-info/
 .installed.cfg
 *.egg
